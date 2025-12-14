@@ -3,7 +3,6 @@
 ###
 
 - **Cursando técnico em informatica**
-- **🤖 Estudando machine learning**
 ###
 
 <h2 align="left">Linguagens</h2>
